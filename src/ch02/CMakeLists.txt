@@ -1,0 +1,7 @@
+primer_add_example(ex2.1.2 ex2.1.2.cpp)
+primer_add_example(ex2.1.3 ex2.1.3.cpp)
+primer_add_example(ex2.2.1 ex2.2.1.cpp)
+primer_add_example(ex2.3.2 ex2.3.2.cpp)
+primer_add_example(ex2.3.3 ex2.3.3.cpp)
+primer_add_example(ex2.4.0 ex2.4.0.cpp ex2.4.0_1.cpp)
+primer_add_example(ex2.4.1 ex2.4.1.cpp)
