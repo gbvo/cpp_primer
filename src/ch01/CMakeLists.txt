@@ -1,0 +1,1 @@
+primer_add_example(1_6_0_bookstore 1_6_0_bookstore.cpp)
