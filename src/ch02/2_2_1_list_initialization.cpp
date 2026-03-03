@@ -7,8 +7,6 @@
  * @details
  */
 
-#include <iostream>
-
 int main()
 {
     long double ld = 3.1415926536;
